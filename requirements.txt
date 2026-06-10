@@ -1,0 +1,7 @@
+Flask==3.0.3
+pytesseract==0.3.10
+Pillow==10.4.0
+rapidfuzz==3.9.6
+gunicorn==23.0.0
+pytest==8.3.2
+Werkzeug==3.0.3
